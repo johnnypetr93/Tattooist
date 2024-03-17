@@ -8,4 +8,13 @@ Still in progress. Not publicly available in production yet.
 
 The current workflow is that the classification model is converted to a CoreML model which is meant to sit in cloud and be downloaded each time a user opens an app (providing a new version of the model is available). It is to be yet discussed whether sending API requests to a model in cloud would not be the more efficient way.
 
-
+<table>
+  <tr>
+    <th>
+      <img src="IMG_6076.PNG" width="300">
+    </th>
+    <th>
+      <img src="IMG_6075.PNG" width="300">
+    </th>
+  </tr>
+</table>
