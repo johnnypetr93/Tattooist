@@ -22,7 +22,7 @@ Tattooist as an overall product is a reservation system for tattoo artists. Tatt
       <img src="ImgExamples/IMG_6076.PNG" width="300">
     </td>
     <td>
-      <img src="ImgExamples/IMG_6075.PNG" width="300">
+      <img src="IMG_6075.PNG" width="300">
     </td>
     <td>
       <img src="ImgExamples/IMG_6077.PNG" width="300">
