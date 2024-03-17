@@ -16,5 +16,8 @@ The current workflow is that the classification model is converted to a CoreML m
     <th>
       <img src="IMG_6075.PNG" width="300">
     </th>
+    <th>
+      <img src="IMG_6077.PNG" width="300">
+    </th>
   </tr>
 </table>
